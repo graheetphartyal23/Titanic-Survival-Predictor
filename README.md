@@ -6,7 +6,7 @@
 
 ![Titanic Survival Predictor](https://github.com/JANHVI-18/Project-Titanic/blob/main/TITANIC_LIVE.png)  
 
-🔗 **Live Project:** [Click here to open](https://project-titanic-yphgu5az4ryc43bhdotbsl.streamlit.app/)  
+🔗 **Live Project:** [Click here to open](https://titanic-survival-predictor-xhkqrcutw8xekkhtuecuxu.streamlit.app/)  
 
 ---
 
